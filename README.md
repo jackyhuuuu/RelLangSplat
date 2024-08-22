@@ -13,9 +13,9 @@ Make sure your code have the following sturcture:
 
 ```<RelLangSplat>```
 <br>|---ckpts
-<br>&nbsp;&nbsp;&nbsp;|---sam_vit_h_4b8939.pth
+<br>&nbsp;&nbsp;&nbsp;&nbsp;|---sam_vit_h_4b8939.pth
 <br>|---lerf_ovs
-<br>  |---<scene_name>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;|---<scene_name>
 <br>|---output
     
 
