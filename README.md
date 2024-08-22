@@ -1,2 +1,2 @@
 # RelLangSplat – Relationship Detection in 3DGS
-![pipeline](images/RelLangSplat Pipeline.png)
+![pipeline]((https://github.com/jackyhuuuu/RelLangSplat/raw/master/images/RelLangSplat Pipeline.png)
