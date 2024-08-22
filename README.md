@@ -11,7 +11,7 @@ The model aims to deal with the relation query in the scene. Before using the mo
 
 Make sure your code have the following sturcture:
 
-<RelLangSplat>
+```<RelLangSplat>```
 |---ckpts
     |---sam_vit_h_4b8939.pth
 |---lerf_ovs
