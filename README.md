@@ -14,11 +14,8 @@ Make sure your code have the following sturcture:
 ```<RelLangSplat>```
 <br>|---ckpts
     <br>|---sam_vit_h_4b8939.pth
-|---lerf_ovs
-    |---<scene_name>
-|---output
-    |---<scene_name_1>
-    |---<scene_name_2>
-    |---<scene_name_3>
+<br>|---lerf_ovs
+    <br>|---<scene_name>
+<br>|---output
     
 
